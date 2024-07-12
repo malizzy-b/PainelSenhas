@@ -12,10 +12,10 @@ Este projeto consiste em um sistema simples de chamada de senhas para uma clíni
 ## Como Usar
 
 - **Chamada de Senhas:**
- - Na aba "Chamada de Senhas", clique no botão "Chamar Nome" para chamar o próximo paciente da fila. O nome e o número do guichê aparecerão na tela.
+ Na aba "Chamada de Senhas", clique no botão "Chamar Nome" para chamar o próximo paciente da fila. O nome e o número do guichê aparecerão na tela.
 
 - **Cadastro de Nomes:**
-   - Na aba "Cadastro de Nome", preencha o nome do paciente e selecione o número do guichê desejado. Clique em "Registrar Nome" para adicionar o paciente à fila de espera.
+ Na aba "Cadastro de Nome", preencha o nome do paciente e selecione o número do guichê desejado. Clique em "Registrar Nome" para adicionar o paciente à fila de espera.
 
 - **Alternar entre Modos Claro e Escuro:**
-   - No canto inferior direito da página, há um botão para alternar entre o modo claro e escuro do sistema.
+ No canto inferior direito da página, há um botão para alternar entre o modo claro e escuro do sistema.
