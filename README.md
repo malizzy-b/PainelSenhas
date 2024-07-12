@@ -1,5 +1,4 @@
-# PainelSenhas
-# Sistema de Chamada de Senhas para Clínica
+# Painel de Senhas
 
 Este projeto consiste em um sistema simples de chamada de senhas para uma clínica, desenvolvido utilizando HTML, JavaScript, Tailwind CSS e Shoelace CSS. O sistema permite que os funcionários da recepção chamem os pacientes por nome e associem cada um a um guichê específico.
 
@@ -12,11 +11,11 @@ Este projeto consiste em um sistema simples de chamada de senhas para uma clíni
 
 ## Como Usar
 
-1. **Chamada de Senhas:**
-   - Na aba "Chamada de Senhas", clique no botão "Chamar Nome" para chamar o próximo paciente da fila. O nome e o número do guichê aparecerão na tela.
+- **Chamada de Senhas:**
+ - Na aba "Chamada de Senhas", clique no botão "Chamar Nome" para chamar o próximo paciente da fila. O nome e o número do guichê aparecerão na tela.
 
-2. **Cadastro de Nomes:**
+- **Cadastro de Nomes:**
    - Na aba "Cadastro de Nome", preencha o nome do paciente e selecione o número do guichê desejado. Clique em "Registrar Nome" para adicionar o paciente à fila de espera.
 
-3. **Alternar entre Modos Claro e Escuro:**
+- **Alternar entre Modos Claro e Escuro:**
    - No canto inferior direito da página, há um botão para alternar entre o modo claro e escuro do sistema.
